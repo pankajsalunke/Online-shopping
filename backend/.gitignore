@@ -1,0 +1,9 @@
+# UserController: Manage users, including registration, authentication, and role management.
+# ProductController: Manage products, including listing, filtering by category, and searching.
+# CategoryController: Manage product categories.
+# OrderController: Handle order creation, tracking, and order item management.
+# OrderItemController: Manage the items within an order.
+# CartController: Handle the creation and management of shopping carts.
+# CartItemController: Manage items within a shopping cart.
+# ReviewController: Allow users to leave reviews and manage existing reviews.
+# PaymentController: Handle payments related to orders.
